@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mercadolibre-bot",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "mercadolibre-bot-db",
+			"database_id": "a13c8577-fd19-472d-bd02-2ee1b43cf0d5"
+		}
+	]
+}
